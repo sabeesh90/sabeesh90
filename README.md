@@ -2,7 +2,7 @@
 <h2> ✨ ✨ MAKING THE WORLD INTELLIGENT USING DEEP LEARNING  ✨ ✨  </h2>
 An ardent believer in "cross learning", inter disciplinary specialization is the way forward, in reaching newer heights and exploring unexplored frontiers in the world of AI. 
 A physician (MBBS) turned Software developer with a PG Diploma & MS in Data Science (specialization in Deep Learning) -  IIIT Bangalore /Liverpool John Moore University, UK <br> 
-Fields of work include 
+Fields of work include <br>
   - Data Analytics ✨<br>
   - Machine Learning ✨<br>
   - Deep Learning based Computer vision tasks ✨<br>
