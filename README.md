@@ -9,10 +9,9 @@ Fields of work include <br>
   - Multimodal Deep learning ✨<br>
   - Advanced neural network optimization & augmentation  ✨<br>
   - Knowledge distillation ✨<br>
-  - Pruning ✨<br>
+  - Quantization & Pruning ✨<br>
   - Weight Space Alterations ✨<br>
-  - Architecturaly Efficient Neural Network ✨<br>
-  - Making Neural Networks Lighter and Faster for Edge/ Mobile deployment  ✨ <br>
+  - Blurpool, label smoothing, Stochastic Weight Averaging, Sharpness Aware Minimization ✨<br>
 <!---
 sabeesh90/sabeesh90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
